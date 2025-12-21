@@ -1,15 +1,3 @@
-<!-- Wave Animation Header -->
-<p align="center">
- 
-  <img src="https://raw.githubusercontent.com/panggi1209/svg/main/backround.svg" width="100%" />
-</p>
-
-</p>
-<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
-  
-
-
-
 
 <!-- Title -->
 <h1 align="center">👋 Halo Semua, Saya Panggi Yulian P</h1>
@@ -71,7 +59,7 @@
 <br><br>
 
 🌐 **GitHub:**  
-<a href="https://github.com/panggi1209">
+<a href="https://github.com/panggih1207">
   <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github"/>
 </a>
 
@@ -83,3 +71,15 @@
 > *"Belajar pelan-pelan asal konsisten, lama-lama jadi skill yang nempel seumur hidup."*
 
 ---
+
+<!-- Wave Animation Header -->
+<p align="center">
+ 
+  <img src="https://raw.githubusercontent.com/panggi1209/svg/main/backround.svg" width="100%" />
+</p>
+
+</p>
+<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
+  
+
+
