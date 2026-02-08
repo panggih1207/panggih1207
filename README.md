@@ -73,7 +73,7 @@
 
 ---
 
-## ✨ Quotes Biar Makin Keren
+## ✨ Quotes 
 > *"Belajar pelan-pelan asal konsisten, lama-lama jadi skill yang nempel seumur hidup."*
 
 ---
