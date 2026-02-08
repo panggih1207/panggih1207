@@ -47,13 +47,6 @@
 
 ---
 
-## 📊 Top Languages
-<p align="center">
-    <img src="https://raw.githubusercontent.com/panggih1207/svg/main/animasi.svg" width="100%" />
-</p>
-
----
-
 ## ✉️ Hubungi Saya
 <div align="center">
 
