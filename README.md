@@ -41,15 +41,15 @@
 
 ## 🧬 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=panggih1207&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=panggih1207&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 📊 Top Languages
 <p align="center">
-    <img src="https://raw.githubusercontent.com/panggi1209/svg/main/animasi.svg" width="100%" />
+    <img src="https://raw.githubusercontent.com/panggih1207/svg/main/animasi.svg" width="100%" />
 </p>
 
 ---
