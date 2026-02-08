@@ -1,5 +1,5 @@
 
-<<!-- Title -->
+<!-- Title -->
 <h1 align="center">👋 Halo Semua, Saya Panggi Yulian P</h1>
 
 <!-- Typing -->
