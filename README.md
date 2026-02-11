@@ -1,10 +1,9 @@
-
 <!-- Title -->
 <h1 align="center">👋 Halo Semua, Saya Panggi Yulian P</h1>
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00E7FF&size=25&duration=3000&center=true&vCenter=true&width=600&lines=Mechanic+Sepeda+Motor;Fullstack+Developer;Belajar+Python+JavaScript+NodeJS+React;HTML+%26+CSS+Gaskeun!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00E7FF&size=25&duration=3000&center=true&vCenter=true&width=900&lines=Mechanic+Sepeda+Motor;Owner+Panjoel+Garage;Fullstack+Developer;Belajar+React+Express+Tailwind+Supabase;Gaskeun+Terus!" />
 </p>
 
 ---
@@ -14,7 +13,81 @@
   <img src="https://komarev.com/ghpvc/?username=panggih1207&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/Status-Active-%2300FFB3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-%23FFD000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Workshop-Panjoel%20Garage-%23FF0000?style=for-the-badge" />
 </p>
+
+---
+
+## 🌐 Social Media
+<p align="center">
+  <a href="https://github.com/panggih1207">
+    <img src="https://img.shields.io/badge/GitHub-panggih1207-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://www.instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-%2300E7FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🏍️ Panjoel Garage (Bengkel Sepeda Motor)
+Selamat datang di **Panjoel Garage** 🔥  
+Bengkel motor yang fokus pada servis harian sampai modifikasi performance.
+
+📍 **Lokasi Google Maps:**  
+👉 [Klik untuk lihat lokasi Panjoel Garage](https://maps.app.goo.gl/ISI_LINK_GOOGLE_MAPS_KAMU)
+
+📞 **Kontak / Booking Servis:**  
+(isi nomor WA kamu)
+
+---
+
+## 🔧 Pelayanan Panjoel Garage
+Berikut beberapa layanan yang tersedia:
+
+### ✅ Servis & Perawatan
+- 🔩 Servis ringan / servis besar
+- 🛢️ Ganti oli mesin & oli gardan
+- ⚙️ Tune up & setting mesin
+- 🧼 Cuci karbu / injektor cleaning
+- 🔥 Setting ECU / mapping (jika ada)
+
+### ⚡ Performance
+- 🚀 Porting & Polish
+- 🏁 Upgrade bore up / bore down
+- 🔧 Setting kompresi & noken as
+- ⚙️ Upgrade CVT / Roller / Per CVT (Matic)
+- 🏍️ Custom knalpot / setting racing
+
+### 🛠 Restorasi & Modifikasi
+- 🎨 Restorasi motor tua / klasik
+- 🏗️ Modifikasi rangka & body
+- 🧰 Custom part & bracket
+- 💡 Upgrade lampu LED / kelistrikan
+- 🛞 Custom velg, ban, dan kaki-kaki
+
+### 🔍 Check Up & Diagnosa
+- 🧪 Diagnosa kerusakan mesin
+- ⚡ Diagnosa kelistrikan
+- 🛠️ Pengecekan komponen motor sebelum touring
+
+---
+
+## 🙋‍♂️ About Me
+- 🏍️ Mechanic Sepeda Motor
+- 🔥 Owner Bengkel **Panjoel Garage**
+- 💻 Fullstack Developer (Learning Journey)
+- 🌱 Lagi fokus belajar React + Express JS + Supabase
+- 🎯 Target: bikin project real & kerja di bidang IT
 
 ---
 
@@ -25,9 +98,16 @@
 
 ---
 
-## ⚡ Framework yang Sedang Saya Pelajari
+## ⚡ Framework & Library yang Saya Pelajari
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,express" height="70" />
+</p>
+
+---
+
+## 🗄️ Database yang Saya Pelajari
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" height="70" />
 </p>
 
 ---
@@ -39,10 +119,46 @@
 
 ---
 
+## 🚀 Project Showcase
+📌 Beberapa project yang sedang saya bangun:
+
+- 🏪 **Dashboard Management Stock Panjoel Garage**  
+  🔹 React + Tailwind + Ant Design + Supabase  
+
+- 📝 **Backend Todolist API**  
+  🔹 Node.js + Express + PostgreSQL  
+
+- 📦 **Management Product System**  
+  🔹 CRUD Product + Stock + Realtime Database  
+
+---
+
+## 🌱 Currently Learning
+- 🔥 Prisma ORM
+- 🔐 Authentication JWT
+- 📡 API Integration
+- 🚀 Deployment (Vercel / Render)
+
+---
+
 ## 🧬 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=panggih1207&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=panggih1207&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📊 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panggih1207&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/panggih1207/panggih1207/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
@@ -55,28 +171,16 @@
   <img src="https://img.shields.io/badge/Gmail-Connect-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-🌐 **GitHub:**  
-<a href="https://github.com/panggih1207">
-  <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github"/>
-</a>
-
 </div>
 
 ---
 
-## ✨ Quotes 
+## ✨ Quotes Biar Makin Keren
 > *"Belajar pelan-pelan asal konsisten, lama-lama jadi skill yang nempel seumur hidup."*
 
 ---
 
-<!-- Wave Animation Header -->
+<!-- Wave Animation Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/panggi1209/svg/main/backround.svg" width="100%" />
 </p>
-
-</p>
-<svg viewBox="0 0 1440 320" xmlns="http://www.w3.org/2000/svg">
-
-
