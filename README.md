@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="#">
+  <a href="https://portofolio-panggi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-%2300E7FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
@@ -44,10 +44,10 @@ Selamat datang di **Panjoel Garage** 🔥
 Bengkel motor yang fokus pada servis harian sampai modifikasi performance.
 
 📍 **Lokasi Google Maps:**  
-👉 [Klik untuk lihat lokasi Panjoel Garage](https://maps.app.goo.gl/ISI_LINK_GOOGLE_MAPS_KAMU)
+👉 [Klik untuk lihat lokasi Panjoel Garage](https://maps.app.goo.gl/79JQQAVnR358iUkH9)
 
 📞 **Kontak / Booking Servis:**  
-(isi nomor WA kamu)
+0859-3836-0301
 
 ---
 
