@@ -149,19 +149,8 @@ Berikut beberapa layanan yang tersedia:
 
 ---
 
-## 📊 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panggih1207&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
----
 
-## 🐍 Snake Contribution Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/panggih1207/panggih1207/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
-
----
 
 ## ✉️ Hubungi Saya
 <div align="center">
