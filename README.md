@@ -107,7 +107,7 @@ Berikut beberapa layanan yang tersedia:
 
 ## 🗄️ Database yang Saya Pelajari
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" height="70" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite" height="70" />
 </p>
 
 ---
