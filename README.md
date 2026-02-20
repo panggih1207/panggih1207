@@ -59,7 +59,7 @@ Berikut beberapa layanan yang tersedia:
 - 🛢️ Ganti oli mesin & oli gardan
 - ⚙️ Tune up & setting mesin
 - 🧼 Cuci karbu / injektor cleaning
-- 🔥 Setting ECU / mapping (jika ada)
+
 
 ### ⚡ Performance
 - 🚀 Porting & Polish
