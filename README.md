@@ -114,7 +114,7 @@ Berikut beberapa layanan yang tersedia:
 
 ## 🛠 Tools yang Saya Gunakan
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode" height="70" />
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,Postman" height="70" />
 </p>
 
 ---
