@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://www.instagram.com/potretpanjoel_07/">
+  <a href="https://www.instagram.com/potretpanjoel_07?igsh=MWFnZmdoZnZiMXBoZw==">
     <img src="https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
