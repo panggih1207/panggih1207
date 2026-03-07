@@ -165,10 +165,6 @@ Berikut beberapa layanan yang tersedia:
 
 ---
 
-## ✨ Quotes Biar Makin Keren
-> *"Belajar pelan-pelan asal konsisten, lama-lama jadi skill yang nempel seumur hidup."*
-
----
 
 <!-- Wave Animation Footer -->
 <p align="center">
