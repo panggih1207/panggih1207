@@ -123,14 +123,6 @@ Berikut beberapa layanan yang tersedia:
 ## 🚀 Project Showcase
 📌 Beberapa project yang sedang saya bangun:
 
-- 🏪 **Dashboard Management Stock Panjoel Garage**  
-  🔹 React + Tailwind + Ant Design + Supabase  
-
-- 📝 **Backend Todolist API**  
-  🔹 Node.js + Express + PostgreSQL  
-
-- 📦 **Management Product System**  
-  🔹 CRUD Product + Stock + Realtime Database  
 
 ---
 
