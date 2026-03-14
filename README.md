@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">👋 Halo Semua, Saya Panggi Yulian Permana</h1>
+<h1 align="center">👋 Hai Semua, Saya Panggi Yulian Permana</h1>
 
 <!-- Typing -->
 <p align="center">
@@ -87,8 +87,6 @@ Berikut beberapa layanan yang tersedia:
 - 🏍️ Mechanic Sepeda Motor
 - 🔥 Owner Bengkel **Panjoel Garage**
 - 💻 Fullstack Developer (Learning Journey)
-- 🌱 Lagi fokus belajar React + Express JS + Supabase
-- 🎯 Target: bikin project real & kerja di bidang IT
 
 ---
 
