@@ -113,7 +113,7 @@ Fitur:
 - Print / Save PDF
 
 🔗 Demo: https://notapanjoelgarage.vercel.app/
-🔗 Repository: https://github.com/panggih1207/nota-panjoel
+🔗 Repository:[ https://github.com/panggih1207/nota-panjoel](https://github.com/panggih1207/nota-html)
 
 ---
 
