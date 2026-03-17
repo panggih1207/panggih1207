@@ -116,7 +116,17 @@ Fitur:
 🔗 Repository:[ https://github.com/panggih1207/nota-panjoel](https://github.com/panggih1207/nota-html)
 
 ---
+### 2. 🌐 Landing Page Servis Elektronik
+Website landing page untuk jasa servis elektronik.  
+Fitur:
+- Responsive design
+- Form konsultasi
+- UI modern
 
+🔗 Demo: https://ys-elektronik-web.vercel.app/ 
+🔗 Repository: https://github.com/username/landingpage-servis
+
+---
 
 ## 🛠️ Tech Stack
 - HTML
