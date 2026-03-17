@@ -96,6 +96,40 @@ Berikut beberapa layanan yang tersedia:
 </p>
 
 ---
+# 🚀 My Projects Portfolio
+
+Halo! Ini adalah kumpulan project yang sudah saya kerjakan.  
+Beberapa dibuat untuk belajar, beberapa untuk kebutuhan nyata.
+
+---
+
+## 📌 Daftar Project
+
+### 1. 🧾 Nota Panjoel Garage
+Aplikasi nota sederhana berbasis HTML, Tailwind CSS, dan JavaScript.  
+Fitur:
+- Tambah barang
+- Hitung total otomatis
+- Print / Save PDF
+
+🔗 Demo: https://notapanjoelgarage.vercel.app/
+🔗 Repository: https://github.com/panggih1207/nota-panjoel
+
+---
+
+
+## 🛠️ Tech Stack
+- HTML
+- CSS / Tailwind CSS
+- JavaScript
+- React
+- Node.js (basic)
+
+---
+
+## 📬 Kontak
+- GitHub: https://github.com/username
+- Email: emailkamu@gmail.com
 
 ## ⚡ Framework & Library yang Saya Pelajari
 <p align="center">
