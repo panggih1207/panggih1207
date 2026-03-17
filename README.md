@@ -124,7 +124,7 @@ Fitur:
 - UI modern
 
 🔗 Demo: https://ys-elektronik-web.vercel.app/ 
-🔗 Repository: https://github.com/username/landingpage-servis
+🔗 Repository: https://github.com/panggih1207/project-elektronikweb
 
 ---
 
