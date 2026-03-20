@@ -68,7 +68,7 @@ Berikut beberapa layanan yang tersedia:
 - 🏁 Upgrade bore up / bore down
 - 🔧 Setting kompresi & noken as
 - ⚙️ Upgrade CVT / Roller / Per CVT (Matic)
-- 🏍️ Custom knalpot / setting racing
+
 
 ### 🛠 Restorasi & Modifikasi
 - 🎨 Restorasi motor tua / klasik
