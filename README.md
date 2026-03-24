@@ -4,7 +4,7 @@
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00E7FF&size=25&duration=3000&center=true&vCenter=true&width=900&lines=Mechanic+Sepeda+Motor;Owner+Panjoel+Garage;Fullstack+Developer;Belajar+React+Express+Tailwind+Supabase;Gaskeun+Terus!" />
+  <img src="https://readme-typing-svg.herokuapp.Gaskeun/?color=00E7FF&size=25&duration=3000&center=true&vCenter=true&width=900&lines=Mechanic+Sepeda+Motor;Owner+Panjoel+Garage;Fullstack+Developer;Belajar+React+Express+Tailwind+Supabase" />
 </p>
 
 ---
