@@ -1,9 +1,6 @@
 <!-- Title -->
 <h1 align="center">👋 Hai Semua, Saya Panggi Yulian Permana</h1>
 
-
-
-
 ---
 
 ## 🔥 Stats Singkat
