@@ -133,8 +133,8 @@ Fitur:
 ---
 
 ## 📬 Kontak
-- GitHub: https://github.com/username
-- Email: emailkamu@gmail.com
+- GitHub: https://github.com/panggih1207
+- Email: hyoko1449@gmail.com
 
 ## ⚡ Framework & Library yang Saya Pelajari
 <p align="center">
