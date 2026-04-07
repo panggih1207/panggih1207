@@ -151,7 +151,7 @@ Fitur:
 
 ## 🛠 Tools yang Saya Gunakan
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,Postman" height="70" />
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,Postman,Kiro" height="70" />
 </p>
 
 ---
