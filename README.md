@@ -99,18 +99,8 @@ Beberapa dibuat untuk belajar, beberapa untuk kebutuhan nyata.
 
 ## 📌 Daftar Project
 
-### 1. 🧾 Nota Panjoel Garage
-Aplikasi nota sederhana berbasis HTML, Tailwind CSS, dan JavaScript.  
-Fitur:
-- Tambah barang
-- Hitung total otomatis
-- Print / Save PDF
-
-🔗 Demo: https://notapanjoelgarage.vercel.app/
-🔗 Repository:[ https://github.com/panggih1207/nota-panjoel](https://github.com/panggih1207/nota-html)
-
 ---
-### 2. 🌐 Landing Page Servis Elektronik
+### 1. 🌐 Landing Page Servis Elektronik
 Website landing page untuk jasa servis elektronik.  
 Fitur:
 - Responsive design
